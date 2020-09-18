@@ -47,3 +47,6 @@ AppRoutingModule = __decorate([
 ], AppRoutingModule);
 exports.AppRoutingModule = AppRoutingModule;
 //# sourceMappingURL=app-routing.module.js.map
+
+//テストのため意味不明な記述を追記
+00varkok??mkfeeakoalsdhogehoge
