@@ -47,9 +47,3 @@ AppRoutingModule = __decorate([
 ], AppRoutingModule);
 exports.AppRoutingModule = AppRoutingModule;
 //# sourceMappingURL=app-routing.module.js.map
-
-// CodeClimateエラーテスト
-hogehogevar hogege
-function hoge(){
-nanimoshinai;}
-hoge();
