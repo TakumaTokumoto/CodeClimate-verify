@@ -47,3 +47,6 @@ AppRoutingModule = __decorate([
 ], AppRoutingModule);
 exports.AppRoutingModule = AppRoutingModule;
 //# sourceMappingURL=app-routing.module.js.map
+
+// エラーテストのため意味不明なこと書きます
+var???plplededexajfjf
