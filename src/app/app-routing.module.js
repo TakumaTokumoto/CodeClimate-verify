@@ -48,5 +48,8 @@ AppRoutingModule = __decorate([
 exports.AppRoutingModule = AppRoutingModule;
 //# sourceMappingURL=app-routing.module.js.map
 
-//テストのため意味不明な記述を追記
+// テストのため意味不明な記述を追記
 00varkok??mkfeeakoalsdhogehoge
+// 更にテスト
+function hogehoge(){teigishinai;}
+hogehoge(hoge);
