@@ -10,6 +10,7 @@ var router_1 = require("@angular/router");
 var dashboard_component_1 = require("./dashboard.component");
 var member_detail_component_1 = require("./member-detail.component");
 var members_component_1 = require("./members.component");
+//aaa
 var routes = [
     {
         path: '',
